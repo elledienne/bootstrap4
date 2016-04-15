@@ -19,7 +19,7 @@ Package.registerBuildPlugin({
   use: [
     'underscore@1.0.4',
     'ecmascript@0.1.6',
-    'babel-compiler@5.8.24_1',
+    'babel-compiler@6.6.1',
     'huttonr:bootstrap4-assets@4.0.0_9'
   ],
   sources: [
